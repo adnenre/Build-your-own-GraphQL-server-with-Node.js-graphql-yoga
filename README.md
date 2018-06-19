@@ -9,8 +9,10 @@ find the exercice, check out this [article](https://www.howtographql.com/graphql
 
 ```sh
 git clone https://github.com/adnenre/Build-your-own-GraphQL-server-with-Node.js-graphql-yoga.git
+
 cd Build-your-own-GraphQL-server-with-Node.js-graphql-yoga
 
+npm install
 ```
 
 
