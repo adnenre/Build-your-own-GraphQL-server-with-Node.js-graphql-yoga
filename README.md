@@ -1,5 +1,5 @@
 
-# Blogr - A simple blogging API
+# HOW TO GRAPHEQL - EXERCICE SOLUTION - A SIMPLE MUTATION 
 
 find the exercice, check out this [article](https://www.howtographql.com/graphql-js/3-a-simple-mutation/).
 
